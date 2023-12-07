@@ -1,0 +1,2 @@
+C:\Users\nabbot\Source\Repos\_Test\FileWait\bin\Release\net6.0\publish\win-x64\FileWait.pdb
+C:\Users\nabbot\Source\Repos\_Test\FileWait\bin\Release\net6.0\publish\win-x64\FileWait.exe

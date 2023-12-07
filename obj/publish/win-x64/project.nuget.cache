@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "28CukzRu1AFZSr2wuvX5tA873P8LrTXAPSwloiPDohtE+JOJ+FTaE/CIwbCKHzFiF447S5qeLW4kAg149bkNnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nabbot\\Source\\Repos\\_Test\\FileWait\\FileWait.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nabbot\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.18\\microsoft.netcore.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\nabbot\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\nabbot\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\nabbot\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.18\\microsoft.netcore.app.crossgen2.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

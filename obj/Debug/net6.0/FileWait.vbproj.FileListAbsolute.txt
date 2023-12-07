@@ -1,0 +1,15 @@
+C:\Users\nabbot\Source\Repos\_Test\FileWait\bin\Debug\net6.0\FileWait.exe
+C:\Users\nabbot\Source\Repos\_Test\FileWait\bin\Debug\net6.0\FileWait.deps.json
+C:\Users\nabbot\Source\Repos\_Test\FileWait\bin\Debug\net6.0\FileWait.runtimeconfig.json
+C:\Users\nabbot\Source\Repos\_Test\FileWait\bin\Debug\net6.0\FileWait.dll
+C:\Users\nabbot\Source\Repos\_Test\FileWait\bin\Debug\net6.0\FileWait.pdb
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\FileWait.vbproj.AssemblyReference.cache
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\FileWait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\FileWait.AssemblyInfoInputs.cache
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\FileWait.AssemblyInfo.vb
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\FileWait.vbproj.CoreCompileInputs.cache
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\FileWait.dll
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\refint\FileWait.dll
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\FileWait.pdb
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\FileWait.genruntimeconfig.cache
+C:\Users\nabbot\Source\Repos\_Test\FileWait\obj\Debug\net6.0\ref\FileWait.dll
